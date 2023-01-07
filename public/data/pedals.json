@@ -14327,6 +14327,13 @@
 		"Width": 3,
 		"Height": 5,
 		"Image": "ibanez-cf7.png"
+	},,
+	{
+		"Brand": "Ibanez",
+		"Name": "CSL Stereo Chorus",
+		"Width": 3,
+		"Height": 4.9,
+		"Image": "ibanez-csl.png"
 	},
 	{
 		"Brand": "Ibanez",
